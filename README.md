@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Brunopp00 👋
 
 - 🔭 Entrando na área de Dev!
-- 🌱 Estudando HTML5, CSS3 e JavaScript
-- 😄 Pronomes: ele/dele
+- 🌱 Estagiario em Desenvolvimento
 
 <div>
   <a href="https://github.com/brunopp00">

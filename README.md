@@ -1,29 +1,28 @@
-## Olá! Eu sou o Brunopp00 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🔭 Entrando na área de Dev!
-- 🌱 Estagiario em Desenvolvimento
+<p align="left"> 
+  Olá! Sou Bruno Fröhlich, nascido em 4 de fevereiro de 2006. Atualmente, sou estagiário na Unimed Vale do Cai, onde atuo como desenvolvedor front-end e mobile. Estou aprendendo e trabalhando para desenvolver minhas habilidades nesta área empolgante da tecnologia. Estou sempre em busca de aprimorar meu conhecimento e contribuir para projetos interessantes. Se tiver alguma pergunta ou precisar de ajuda com algo relacionado à minha área, fique à vontade para perguntar!
+</p>
 
-<div>
-  <a href="https://github.com/brunopp00">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunopp00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopp00&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt"Rafa-yoda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt"Rafa-yoda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="right" alt"Rafa-yoda" height="100" width="100" src="https://i.picasion.com/pic92/a3a053ef9f5fa78311bf1c5b74912eb9.gif">
-</div>
-  
-  ##
-  
-  <div> 
-  <a href="https://instagram.com/brunofnh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-frohlich-444b06234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<p align="left">
+  🦄 Linguagens: JavaScript, TypeScript, ReactJs, Java, NextJs, AngularJs, Android Native.
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
+
+<p align="left">
+  💌 Para entrar em contato comigo: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:brunofnh08@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/bruno-frohlich-444b06234/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://wa.me/5551999187010" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+</p>

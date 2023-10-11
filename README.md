@@ -22,4 +22,5 @@
   <a href="https://wa.me/5551999187010" target='_blank' alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>
-[![brunopp00](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopp00&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunopp00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopp00&layout=compact&langs_count=7&theme=dracula"/>

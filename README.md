@@ -4,12 +4,8 @@
   Olá! Sou Bruno Fröhlich, nascido em 4 de fevereiro de 2006. Atualmente, sou estagiário na Unimed Vale do Cai, onde atuo como desenvolvedor front-end e mobile. Estou aprendendo e trabalhando para desenvolver minhas habilidades nesta área empolgante da tecnologia. Estou sempre em busca de aprimorar meu conhecimento e contribuir para projetos interessantes. Se tiver alguma pergunta ou precisar de ajuda com algo relacionado à minha área, fique à vontade para perguntar!
 </p>
 
-<p align="left">
-  🦄 Linguagens: JavaScript, TypeScript, ReactJs, Java, NextJs.
-</p>
-
-<code><img src="https://github.com/thaynararm/thaynararm/assets/132159643/44eab3cf-b114-44d8-b9cf-fc4ae52069f1" alt="HTML" height="40" width="auto"> <img src="https://github.com/thaynararm/thaynararm/assets/132159643/4535445a-b9b2-4585-906b-ba4625886085" alt="CSS" height="40" width="auto"> <img src="https://github.com/thaynararm/thaynararm/assets/132159643/6dc6baf5-4c2c-4c14-8914-a969f2276079" alt="JavaScript" height="40" width="auto"> <img src="https://github.com/thaynararm/thaynararm/assets/132159643/5ecadfe3-0dad-40b8-8e26-f5ffbe7874e6" alt="TypeScript" height="40" width="auto"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="ReactJs" height="40" width="auto"><img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png" alt="NextJs" height="40" width="auto">
-</code>
+<div style={{ display: 'flex', gap:'10px' }}><img src="https://github.com/thaynararm/thaynararm/assets/132159643/44eab3cf-b114-44d8-b9cf-fc4ae52069f1" alt="HTML" height="40" width="auto"> <img src="https://github.com/thaynararm/thaynararm/assets/132159643/4535445a-b9b2-4585-906b-ba4625886085" alt="CSS" height="40" width="auto"> <img src="https://github.com/thaynararm/thaynararm/assets/132159643/6dc6baf5-4c2c-4c14-8914-a969f2276079" alt="JavaScript" height="40" width="auto"> <img src="https://github.com/thaynararm/thaynararm/assets/132159643/5ecadfe3-0dad-40b8-8e26-f5ffbe7874e6" alt="TypeScript" height="40" width="auto"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="ReactJs" height="40" width="auto"><img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png" alt="NextJs" height="40" width="auto">
+</div>
 
 <p align="left">
   💌 Para entrar em contato comigo: ⤵️

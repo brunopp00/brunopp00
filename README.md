@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Sou Bruno Fröhlich, nascido em 4 de fevereiro de 2006. Atualmente, sou estagiário na Unimed Vale do Cai, onde atuo como desenvolvedor front-end e mobile. Estou aprendendo e trabalhando para desenvolver minhas habilidades nesta área empolgante da tecnologia. Estou sempre em busca de aprimorar meu conhecimento e contribuir para projetos interessantes. Se tiver alguma pergunta ou precisar de ajuda com algo relacionado à minha área, fique à vontade para perguntar!
+  Olá! Sou Bruno Fröhlich, nascido em 4 de fevereiro de 2006. Atualmente, sou desenvolvedor Junior na Unimed Vale do Cai, onde atuo como desenvolvedor front-end e mobile. Estou aprendendo e trabalhando para desenvolver minhas habilidades nesta área empolgante da tecnologia. Estou sempre em busca de aprimorar meu conhecimento e contribuir para projetos interessantes. Se tiver alguma pergunta ou precisar de ajuda com algo relacionado à minha área, fique à vontade para perguntar!
 </p>
 
 <p align="left">

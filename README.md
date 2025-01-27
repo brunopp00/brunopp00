@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Olá! 👋  
-Sou **Bruno Fröhlich**, nascido em **4 de fevereiro de 2006**. Atualmente, sou **Desenvolvedor Júnior** na **Unimed Vale do Caí**, atuando no desenvolvimento **front-end** e **mobile**.  
+# Hello! 👋  
+I'm **Bruno Fröhlich**, born on **February 4th, 2006**. Currently, I'm a **Junior Developer** at **Unimed Vale do Caí**, working in **front-end** and **mobile** development.  
 
-Apaixonado por tecnologia, estou sempre buscando aprender, aprimorar minhas habilidades e contribuir para projetos interessantes. 🚀  
+Passionate about technology, I'm always seeking to learn, improve my skills, and contribute to exciting projects. 🚀  
 
-Se precisar de ajuda, tiver uma pergunta ou simplesmente quiser trocar ideias sobre desenvolvimento, **sinta-se à vontade para me contatar!** 😊  
+If you need help, have a question, or just want to discuss development topics, **feel free to reach out!** 😊  
 
 ---
 
-## 🚀 Tecnologias que domino  
+## 🚀 Technologies I work with  
 <div style="display: flex; gap: 10px;">
   <img src="https://github.com/thaynararm/thaynararm/assets/132159643/44eab3cf-b114-44d8-b9cf-fc4ae52069f1" alt="HTML" height="40" width="auto">
   <img src="https://github.com/thaynararm/thaynararm/assets/132159643/4535445a-b9b2-4585-906b-ba4625886085" alt="CSS" height="40" width="auto">
@@ -21,13 +21,13 @@ Se precisar de ajuda, tiver uma pergunta ou simplesmente quiser trocar ideias so
 
 ---
 
-## 📬 Como me encontrar?  
-Entre em contato comigo pelos links abaixo:  
+## 📬 How to reach me  
+Feel free to contact me through the links below:  
 <p align="left">
   <a href="mailto:brunofnh08@gmail.com" target="_blank" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:brunofnh08@gmail.com" />
   </a>
-  <a href="https://www.linkedin.com/in/bruno-frohlich-444b06234/" target="_blank" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/bruno-frohlich-/" target="_blank" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-frohlich-444b06234/" />
   </a>
   <a href="https://wa.me/5551999187010" target="_blank" alt="WhatsApp">
@@ -37,8 +37,8 @@ Entre em contato comigo pelos links abaixo:
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊 GitHub Stats  
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunopp00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopp00&layout=compact&langs_count=7&theme=dracula" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopp00&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
 </div>

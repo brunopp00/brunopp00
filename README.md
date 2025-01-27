@@ -21,7 +21,7 @@ If you need help, have a question, or just want to discuss development topics, *
 ## 📬 How to reach me  
 Feel free to contact me through the links below:  
 <p align="left">
-  <a href="mailto:brunofnh08@gmail.com" target="_blank" alt="Gmail">
+  <a href="mailto:brunofrohlich00@gmail.com" target="_blank" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:brunofnh08@gmail.com" />
   </a>
   <a href="https://www.linkedin.com/in/bruno-frohlich-/" target="_blank" alt="LinkedIn">

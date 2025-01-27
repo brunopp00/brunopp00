@@ -14,7 +14,6 @@ If you need help, have a question, or just want to discuss development topics, *
   <img src="https://github.com/thaynararm/thaynararm/assets/132159643/5ecadfe3-0dad-40b8-8e26-f5ffbe7874e6" alt="TypeScript" height="40" width="auto">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="ReactJs" height="40" width="auto">
   <img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png" alt="NextJs" height="40" width="auto">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/307_Tailwind_CSS_logo-512.png" alt="Tailwind CSS" height="40" width="auto">
 </div>
 
 ---

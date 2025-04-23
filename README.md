@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 # Hello! 👋  
-I'm **Bruno Fröhlich**, a **Junior Developer** at **Unimed Vale do Caí**, specializing in **front-end** and **mobile** development.  
+I'm **Bruno Fröhlich**, a **Junior Developer** at **Syonet**, specializing in **front-end** development.  
 
 Passionate about technology, I’m always learning, growing, and eager to contribute to exciting projects. 🚀  
 
